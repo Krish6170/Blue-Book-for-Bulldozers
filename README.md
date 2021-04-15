@@ -16,3 +16,4 @@ There are several fields towards the end of the file on the different options a 
 The machine_appendix.csv file contains the correct year manufactured for a given machine along with the make, model, and product class details. There is one machine id for every machine in all the competition datasets (training, evaluation, etc.).
 https://www.kaggle.com/c/bluebook-for-bulldozers/data
 
+# final.py gives the predictions
