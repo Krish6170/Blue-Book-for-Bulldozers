@@ -17,3 +17,4 @@ The machine_appendix.csv file contains the correct year manufactured for a given
 https://www.kaggle.com/c/bluebook-for-bulldozers/data
 
 # final.py gives the predictions
+# test1.py  trains the model and evaluates and tunes on the validation set and returns the tuned model
